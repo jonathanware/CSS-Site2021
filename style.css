@@ -1,9 +1,10 @@
 body {
     background-color: #1ed966;
+    font-family: 'Roboto', sans-serif;
 }
 h1 {
-    color:#0a6f0a;
-    font-family: cursive;
+    color:#3c0c48;
+    font-family: 'Rampart One', cursive;
     text-align: center;
     font-size: 72pt;
 }
